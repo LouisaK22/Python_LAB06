@@ -1,4 +1,4 @@
-# Python_Lab6_2
-Лабораторная работа 6.2 (Работа с библиотекой Turtle)
+# Python_Lab6
+Лабораторная работа 6
 
 ![srcreenshot](scr.png)
